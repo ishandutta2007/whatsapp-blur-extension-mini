@@ -1,0 +1,1 @@
+# whatsapp-blur-extension-mini
