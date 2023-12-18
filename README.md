@@ -44,7 +44,7 @@ English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md) &nbsp;&nbsp;|&nbsp;&
 
 ## Screenshot
 
-![screenshot_tap](https://github.com/ishandutta2007/whatsapp-blur-extension/assets/2527354/38d9acca-15d8-459d-852d-7c4e9c175013)
+![screenshot_tap](https://github.com/ishandutta2007/whatsapp-blur-extension/blob/main/screenshots/screenshot_3_chatblurred.png)
 
 ##
 
